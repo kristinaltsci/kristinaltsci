@@ -20,41 +20,6 @@
 
 ---
 
-## 🧰 Toolbox
-
-| Category | Tools & Frameworks |
-|----------|--------------------|
-| **Backend** | Spring Boot · Quarkus · Express · NestJS · FastAPI · Django |
-| **Frontend** | React · Next.js · Vue · Nuxt · Vite · Tailwind CSS |
-| **Data & Messaging** | PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ · Kafka |
-| **Cloud & DevOps** | AWS (Lambda, ECS, RDS, S3) · Docker · Kubernetes · Terraform · GitHub Actions · Argo CD |
-| **Testing & Quality** | JUnit · PyTest · Jest · Cypress · SonarQube · SonarLint |
-| **Other** | OpenAI API · Make.com · Zapier · Stripe · Firebase |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=github_dark" height="160" />
-</p>
-
----
-
-## ✨ Highlight Projects
-
-| Project | Stack | What it does |
-|---------|-------|--------------|
-| **Personal Finance Tracker** | React • Spring Boot • PostgreSQL | End-to-end budgeting app with AI-powered receipt OCR and Slack automations. |
-| **Senior Living Referral Platform** | Nuxt • Express • MongoDB | Centralises partner listings & matchmaking for elder-care services. |
-| **AI-Driven Invoice Parser** | Python • FastAPI • Google Vision | Turns messy PDFs into clean JSON, integrates with Notion & Make.com. |
-| **React + Remotion Video Generator** | React • Remotion | Creates daily motivational shorts with animated SVG paths & AI voiceovers.|
-
-> Explore the pinned repos below for code samples, architecture diagrams, and CI pipelines.
-
----
-
 ## 💬 Let’s Connect
 
 - 📫 **Email:** you@example.com  
