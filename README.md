@@ -12,7 +12,7 @@ I'm a full-stack software developer with a strong focus on backend development, 
 Building cloud-native applications, improving CI/CD pipelines, and exploring AI integrations in automation workflows.
 
 ## 📫 How to Reach Me
-- Email: kristina.lina.dev@example.com
+- Email: altscifizine@mail.com
 
 ## 🚀 Fun Fact
 I'm passionate about developer productivity and love building tools that make coding life easier and more joyful.
