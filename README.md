@@ -19,9 +19,7 @@ Building cloud-native applications, improving CI/CD pipelines, and exploring AI 
 ## 🚀 Fun Fact
 I'm passionate about developer productivity and love building tools that make coding life easier and more joyful.
 
----
-
-Feel free to explore my repositories, contribute, or reach out if you're working on something exciting. Let’s build something awesome! 🙌
+--- 
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Java](https://img.shields.io/badge/Java-SpringBoot-orange)
